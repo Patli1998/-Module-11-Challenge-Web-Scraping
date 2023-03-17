@@ -8,7 +8,7 @@ Steps
     Use Beautiful Soup to parse the HTML elements on the web page and extract the desired data.
     Organize and store the collected data in a structured format, such as a CSV or JSON file.
     Perform data analysis on the collected data using pandas and other relevant libraries.
-    Visualize the insights gained from the data analysis using matplotlib, seaborn, or other relevant libraries.
+    Visualize the insights gained from the data analysis using matplotlib.
 
 Skills
 
